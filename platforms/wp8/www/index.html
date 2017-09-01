@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>PekaoManagerBook</title>
+	<style type="text/css">
+		/**
+		* Example of an initial loading indicator.
+		* It is recommended to keep this as minimal as possible to provide instant feedback
+		* while other resources are still being loaded for the first time
+		*/
+		html, body {
+			height: 100%;
+			background-color: #1985D0
+		}
+
+		#appLoadingIndicator {
+			position: absolute;
+			top: 50%;
+			margin-top: -15px;
+			text-align: center;
+			width: 100%;
+			height: 30px;
+			-webkit-animation-name: appLoadingIndicator;
+			-webkit-animation-duration: 0.5s;
+			-webkit-animation-iteration-count: infinite;
+			-webkit-animation-direction: linear;
+		}
+
+		#appLoadingIndicator > * {
+			background-color: #FFFFFF;
+			display: inline-block;
+			height: 30px;
+			-webkit-border-radius: 15px;
+			margin: 0 5px;
+			width: 30px;
+			opacity: 0.8;
+		}
+
+		@-webkit-keyframes appLoadingIndicator{
+			0% {
+				opacity: 0.8
+			}
+			50% {
+				opacity: 0
+			}
+			100% {
+				opacity: 0.8
+			}
+		}
+	</style>
+	<!-- The line below must be kept intact for Sencha Command to build your application -->
+	<script type="text/javascript">(function(global){function addMeta(name,content){var meta=document.createElement('meta');meta.setAttribute('name',name);meta.setAttribute('content',content);head.appendChild(meta)}var head=global.document.head||global.document.getElementsByTagName('head')[0],Ext=global.Ext;'undefined'==typeof Ext&&(global.Ext=Ext={});Ext.blink=function(options){var scripts=options.js||[];options=options.css||[];var ln;if(navigator.userAgent.match(/IEMobile\/10\.0/)){var i$jscomp$0=document.createElement('style');
+i$jscomp$0.appendChild(document.createTextNode('@media screen and (orientation: portrait) {@-ms-viewport {width: 320px !important;}}@media screen and (orientation: landscape) {@-ms-viewport {width: 560px !important;}}'));document.getElementsByTagName('head')[0].appendChild(i$jscomp$0)}addMeta('viewport','width\x3ddevice-width, initial-scale\x3d1.0, maximum-scale\x3d1.0, minimum-scale\x3d1.0, user-scalable\x3dno');addMeta('apple-mobile-web-app-capable','yes');addMeta('apple-touch-fullscreen','yes');
+Ext.microloaded=!0;var filterPlatform=window.Ext.filterPlatform=function(platform){function isPhone(ua){var isMobile=/Mobile(\/|\s)/.test(ua);return/(iPhone|iPod)/.test(ua)||!/(Silk)/.test(ua)&&/(Android)/.test(ua)&&(/(Android 2)/.test(ua)||isMobile)||/(BlackBerry|BB)/.test(ua)&&isMobile||/(Windows Phone)/.test(ua)}function isTablet(ua){return!isPhone(ua)&&(/iPad/.test(ua)||/Android|Silk/.test(ua)||/(RIM Tablet OS)/.test(ua)||/MSIE 10/.test(ua)&&/; Touch/.test(ua))}var profileMatch=!1,ua=navigator.userAgent;
+platform=[].concat(platform);var j=window.location.search.substr(1).split('\x26');var jln={};var i;for(i=0;i<j.length;i++){var tmpArray=j[i].split('\x3d');jln[tmpArray[0]]=tmpArray[1]}if(j=jln.platform)return-1!=platform.indexOf(j);j=0;for(jln=platform.length;j<jln;j++){switch(platform[j]){case 'phone':profileMatch=isPhone(ua);break;case 'tablet':profileMatch=isTablet(ua);break;case 'desktop':profileMatch=!isPhone(ua)&&!isTablet(ua);break;case 'ios':profileMatch=/(iPad|iPhone|iPod)/.test(ua);break;
+case 'android':profileMatch=/(Android|Silk)/.test(ua);break;case 'blackberry':profileMatch=/(BlackBerry|BB)/.test(ua);break;case 'safari':profileMatch=/Safari/.test(ua)&&!/(BlackBerry|BB)/.test(ua);break;case 'chrome':profileMatch=/Chrome/.test(ua);break;case 'ie10':profileMatch=/MSIE 10/.test(ua);break;case 'windows':profileMatch=/MSIE 10/.test(ua)||/Trident/.test(ua);break;case 'tizen':profileMatch=/Tizen/.test(ua);break;case 'firefox':profileMatch=/Firefox/.test(ua)}if(profileMatch)return!0}return!1};
+i$jscomp$0=0;for(ln=options.length;i$jscomp$0<ln;i$jscomp$0++){var path=options[i$jscomp$0];if('string'!=typeof path){var platform=path.platform;var exclude=path.exclude;var theme=path.theme;path=path.path}if(platform){if(!filterPlatform(platform)||filterPlatform(exclude))continue;Ext.theme||(Ext.theme={});Ext.theme.name||(Ext.theme.name=theme||'Default')}document.write('\x3clink rel\x3d"stylesheet" href\x3d"'+path+'"\x3e')}i$jscomp$0=0;for(ln=scripts.length;i$jscomp$0<ln;i$jscomp$0++)path=scripts[i$jscomp$0],
+'string'!=typeof path&&(platform=path.platform,exclude=path.exclude,path=path.path),(!platform||filterPlatform(platform)&&!filterPlatform(exclude))&&document.write('\x3cscript src\x3d"'+path+'"\x3e\x3c/script\x3e')}})(this);
+Ext.blink({id:'591c92ec-40fe-4f9f-9d78-01d0effa13b8',js:[{remote:!0,path:'phonegap.js'},{update:'delta',path:'app.js'}],css:[{path:'resources/appcss/chapters.css'},{path:'resources/appcss/appcss.css'},{path:'resources/appcss/scrLGL70.css'},{path:'resources/appcss/scrIPHONE5.css'},{path:'resources/appcss/scrIPHONE6.css'},{path:'resources/appcss/scrIPHONE6plus.css'},{path:'resources/appcss/scrLUMIA925.css'},{path:'resources/appcss/scrANDROID.css'},{path:'resources/appcss/scr640.css'},{path:'resources/appcss/scr750.css'},
+{path:'resources/appcss/scr768.css'},{path:'resources/appcss/preIPHONE5.css'},{path:'resources/appcss/preIPHONE6.css'},{path:'resources/appcss/preIPHONE6plus.css'},{path:'resources/appcss/preLUMIA925.css'},{path:'resources/appcss/preLGL70.css'},{update:'delta',theme:'Default',platform:['phone','tablet','desktop'],path:'resources/css/sencha-touch-0ba26fd8-af9e-4d7b-a6e5-bd5101ae6172.css'}]});</script>
+</head>
+<body>
+	<div id="appLoadingIndicator">
+		<div></div>
+		<div></div>
+		<div></div>
+	</div>
+</body>
+</html>

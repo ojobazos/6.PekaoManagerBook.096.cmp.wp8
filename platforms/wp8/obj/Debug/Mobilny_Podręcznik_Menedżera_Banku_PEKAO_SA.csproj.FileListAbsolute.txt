@@ -1,0 +1,14 @@
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\Bin\Debug\Background.png
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\Bin\Debug\pl.adaptsoft.mobile.PekaoManagerBook.dll
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\Bin\Debug\pl.adaptsoft.mobile.PekaoManagerBook.pdb
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\obj\Debug\App.g.cs
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\obj\Debug\pl.adaptsoft.mobile.PekaoManagerBook.g.resources
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\obj\Debug\pl.adaptsoft.mobile.PekaoManagerBook.dll
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\obj\Debug\pl.adaptsoft.mobile.PekaoManagerBook.pdb
+D:\Users\JaD\Documents\DEVEL_TRANS\Arek\2017-09-01\6.PekaoManagerBook.096.cmp.wp8\phonegap\platforms\wp8\obj\Debug\XapCacheFile.xml
