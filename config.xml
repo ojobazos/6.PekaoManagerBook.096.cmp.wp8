@@ -54,7 +54,7 @@
     <access origin="*" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <platform name="wp8">
-        <preference name="phonegap-version" value="cli-5.2.0" />
+        <preference name="phonegap-version" value="cli-5.4.1" />
     </platform>
     <engine name="wp8" spec="~3.8.2" />
 </widget>
