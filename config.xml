@@ -52,7 +52,6 @@
     <gap:splash gap:platform="ios" height="768" src="www/res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="www/res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
-    <plugin name="cordova-plugin-whitelist" version="1" />
     <preference name='pgb-builder-version' value='1' />
     <platform name="wp8">
         <preference name="phonegap-version" value="cli-5.2.0" />
